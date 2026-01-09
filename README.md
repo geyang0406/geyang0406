@@ -3,7 +3,7 @@
 Lecturer at Tianjin University of Technology and Education  
 Research Focus: Computational Statistics, Internet of Things, and Machine Learning  
 
-🔗 Personal Website (Chinese): [https://lxy.tute.edu.cn/info/1221/3337.htm]([https://lxy.tute.edu.cn/info/1221/3337.htm])  
+🔗 Personal Website (Chinese): [https://lxy.tute.edu.cn/info/1221/3337.htm](https://lxy.tute.edu.cn/info/1221/3337.htm)  
 📧 Email: [geyang406@tute.edu.com](mailto:geyang406@tute.edu.com)
 
 > *Building data-driven solutions for engineering and intelligent systems.*
