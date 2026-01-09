@@ -40,7 +40,7 @@ Research Focus: Computational Statistics, Internet of Things, and Machine Learni
 
 ## 📚 Teaching
 - **Undergraduate**: Probability & Statistics, Statistical Software
-- **Graduate**: Statistical Computing & Software, Introduction to Machine Learning
+- **Graduate**: Introduction to Machine Learning
 
 ## 🔬 Ongoing Projects
 - **Tianjin NSF General Project (2025–2028)**  
