@@ -42,6 +42,10 @@ Research Focus: Computational Statistics, Internet of Things, and Machine Learni
 - **Undergraduate**: Probability & Statistics, Statistical Software
 - **Graduate**: Introduction to Machine Learning
 
+## 📚 Lecture Notes
+- [**Lecture Notes on Measure Theory (2022)**](https://geyang0406.github.io/ge-yang-lecture-notes-on-measure-theory.pdf)  
+  A comprehensive introduction to the mathematical foundations of probability and statistics.
+
 ## 🔬 Ongoing Projects
 - **Tianjin NSF General Project (2025–2028)**  
   *Tooth-profile-performance integrated design theory for gear shaving cutters* (Co-Investigator)  
