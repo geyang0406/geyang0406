@@ -43,7 +43,7 @@ Research Focus: Computational Statistics, Internet of Things, and Machine Learni
 - **Graduate**: Introduction to Machine Learning
 
 ## 📚 Lecture Notes
-- [**Lecture Notes on Measure Theory (2022)**](https://geyang0406.github.io/ge-yang-lecture-notes-on-measure-theory.pdf)  
+- [**Lecture Notes on Measure Theory (2022)**](https://github.com/geyang0406/geyang0406.github.io/blob/main/Ge-Yang-Lecture-notes-on-measure-theory.pdf)  
   A comprehensive introduction to the mathematical foundations of probability and statistics.
 
 ## 🔬 Ongoing Projects
